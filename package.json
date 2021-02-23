@@ -1,0 +1,22 @@
+{
+  "name": "caching",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BackendDevelopment/Caching.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BackendDevelopment/Caching/issues"
+  },
+  "homepage": "https://github.com/BackendDevelopment/Caching#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
