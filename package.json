@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/BackendDevelopment/Caching#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "ioredis": "^4.22.0"
   }
 }
